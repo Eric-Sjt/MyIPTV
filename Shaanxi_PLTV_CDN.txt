@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视频道高清,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -33,42 +33,15 @@ CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/i
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+爱上4K 22M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+SiTV欢笑剧场4K 12M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+信号测试1 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+信号测试2 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
-地方频道,#genre#
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-上海第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
-湖南快乐垂钓 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-湖南茶频道 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-
-陕西台,#genre#
-佛坪,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
-千阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
-商洛,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-城固,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
-宁强,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
-安康,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-宝鸡,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
-汉中,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
-洋县 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
-留坝 2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
-西乡 3.5M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
-镇巴 2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
-悦美生活购物 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226934/index.m3u8
-江西风尚购物 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226326/index.m3u8
+央视频道低清,#genre#
 凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 CCTV1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
@@ -109,6 +82,28 @@ CCTV女性时尚 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 中国教育2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 中国教育3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 中国教育4 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+
+地方频道高清,#genre#
+浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+上海第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
+湖南快乐垂钓 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
+湖南茶频道 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
+
+地方频道低清,#genre#
 东南卫视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 东方卫视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225789/index.m3u8
 云南卫视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
@@ -178,6 +173,24 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
 百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
+
+陕西地方台高清,#genre#
+佛坪,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
+千阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
+商洛,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+城固,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
+宁强,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
+安康,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+宝鸡,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+汉中,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+洋县 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
+留坝 2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+西乡 3.5M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+镇巴 2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+悦美生活购物 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226934/index.m3u8
+江西风尚购物 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226326/index.m3u8
+
+陕西地方台低清 #genre#
 陕西体育休闲 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
 陕西公共 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 陕西影视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
@@ -201,10 +214,3 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 杨凌 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8
 榆林1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
 渭南 4M576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/i 
-爱上4K 22M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-SiTV欢笑剧场4K 12M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-信号测试1 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-信号测试2 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
